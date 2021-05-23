@@ -12,5 +12,5 @@ function calc(){
 }
 
 function reset(){
-  display.textContent = "0";
+  display.textContent = "";
 }
